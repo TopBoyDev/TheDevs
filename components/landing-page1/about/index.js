@@ -4,7 +4,7 @@ import { SectionStyle1, SectionStyle2, SectionTitle, CardStyle5 } from '../../so
 
 class Index extends React.Component {
     constructor(props) {
-        super(props);
+        super(props); 
     }
 
     render() {
